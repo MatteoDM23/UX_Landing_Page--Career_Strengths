@@ -10,9 +10,12 @@ All the following designs have been developed using <b><a href="https://www.figm
 <b>2. Business cards</b>
 </br></br>
 <img src="https://github.com/MatteoDM23/UX_Landing_Page--Career_Strengths/blob/master/Business_Card_Front.png?raw=true" width="200">
-&nbsp;
-<img src="https://github.com/MatteoDM23/UX_Landing_Page--Career_Strengths/blob/master/Business_Card_Back_dark.png?raw=true" width="200">
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MatteoDM23/UX_Landing_Page--Career_Strengths/blob/master/Business_Card_Back_dark.png?raw=true" width="300">
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MatteoDM23/UX_Landing_Page--Career_Strengths/blob/master/Business_Card_Back.png?raw=true" width="300">
 </br></br>
+
 </br></br>
 </br></br>
 </br></br>
