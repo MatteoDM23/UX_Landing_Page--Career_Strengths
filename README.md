@@ -4,4 +4,4 @@ Official landing page of Career Strengths, a career coaching business based in L
 All the following designs have been developed using <b><a href="https://www.figma.com/">Figma</a></b>.
 </br></br>
 <b>1. Logo</b>
-!Career Stengths Logo!("logo.png")
+![Career Stengths Logo](logo.png)
