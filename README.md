@@ -5,7 +5,7 @@ All the following designs have been developed using <b><a href="https://www.figm
 </br></br>
 <b>1. Logo</b>
 </br></br>
-![Career Stengths Logo](logo.png)
+<img src="https://github.com/MatteoDM23/UX_Landing_Page--Career_Strengths/blob/master/logo.png?raw=true" width="300" height="auto">
 </br></br>
 <b>2. Business cards</b>
 </br></br>
