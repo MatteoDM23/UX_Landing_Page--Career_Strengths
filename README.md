@@ -9,7 +9,7 @@ All the following designs have been developed using <b><a href="https://www.figm
 </br></br>
 <b>2. Business cards</b>
 </br></br>
-![Career Stengths Business card front](Business_Card_Front.png)
+![Career Stengths Business card front](Business_Card_Front.png | width=100)
 </br></br>
 </br></br>
 </br></br>
